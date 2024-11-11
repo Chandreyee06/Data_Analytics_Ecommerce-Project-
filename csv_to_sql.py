@@ -6,7 +6,7 @@ import os
 csv_files = [
     ('customers.csv', 'customers'),
     ('orders.csv', 'orders'),
-    ('sellers.csv', 'sales'),
+    ('sellers.csv', 'sellers'),
     ('products.csv', 'products'),
     ('delivery.csv', 'delivery'),
     ('payments.csv', 'payments')  # Added payments.csv for specific handling
