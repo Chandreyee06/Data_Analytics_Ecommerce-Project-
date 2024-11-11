@@ -10,6 +10,7 @@ csv_files = [
     ('products.csv', 'products'),
     ('geolocation.csv', 'geolocation'),
     ('payments.csv', 'payments')  # Added payments.csv for specific handling
+    ('orders_items.csv', 'order_items')
 ]
 
 # Connect to the MySQL database
